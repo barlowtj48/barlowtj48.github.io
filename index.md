@@ -46,9 +46,9 @@ I know that success is never garunteed, but I'd love to be the person who tried.
 
 ---
 
-[ThePageFlip](/thepageflip)
+[Discord Wordkeeper Bot](/wordkeeper)
 <br><br>
-<img src="images/thepageflip.jpg?raw=true" style="width:150px;height:150px;" href="https://thomasjbarlow.com/thepageflip"/>
+<img src="images/wordkeeper2.jpg?raw=true" style="width:550px;height:150px;" href="https://thomasjbarlow.com/wordkeeper"/>
 
 ---
 
