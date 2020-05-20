@@ -1,12 +1,10 @@
 ## About Me
 
-Upon the realization that being tall does not equate to a natural ability to play basketball, I stuck with my passion of playing with computers. I started early by taking the family computer apart and piecing it back together and hoping it would still be functional. That was one of the first times I learned that you don't always get more than one chance when you mess up with wiring a computer. 
+During my time in university, I've come to learn that I love jumping in on something I believe has a chance to work. All it takes is a half baked idea of a concept that doesn't need to exist, and suddenly 3 hours have passed and I'm 3D printing the 4th and final prototype of wheel fenders for an electric skateboard. Sure, I may have figured out the perfect shape to cover the wheel to prevent rain from splashing up, but that doesn't mean it didn't fall off and break 30 feet into test riding it. 
 
-About a decade later, I help anyone who is interested in constructing a computer of their own, teach them how to build it, and how to learn about it through their own experiences. I love helping other people save money by being informed about potential options that could have been missed due to advertising or false rumors. 
+To me it doesn't matter too much that an idea seems ridiculous. The idea of working on something that no one has put effort into before really pushes me to be the first, even if it means that the final product ends up as a story of something I tried once. Often times that means I have to learn something new to give a full effort, whether it's new coding languages or a new piece of software I'm not familiar with. Honestly I think that's the reason that I gravitated towards computers, due to the fact that there's really no limit to what you can't try. 
 
-I learned to merge this love for computers with the software that used it after being introduced to coding early in high school. This experience has enlightened me, while at the same time exposing me to the vast potential that grows more and more as time goes by. 
-
-My favorite thing about computers is not what they currently do, but what they could potentially do. Any technical experience should have an expiration date, because the only thing that is guaranteed is change. As someone who loves change, and the new experiences that follow alongside, I welcome the future.  
+I know that success is never garunteed, but I'd love to be the person who tried. Even if it does mean falling off a skateboard after accidentally running over a prototype water blocker. s
 
 ---
 
