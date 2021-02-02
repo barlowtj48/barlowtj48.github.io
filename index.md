@@ -16,13 +16,19 @@ I know that success is never garunteed, but I'd love to be the person who tried.
 
 ---
 
+[Model Design and 3D Printing](/model_design)
+<br><br>
+<img src="images/3dprints/flipclock_render.png" style="width:215px;height:150px;" href="https://thomasjbarlow.com/model_design"/>
+
+---
+
 [Custom 3D Printed Lithophanes](/custom_lithophanes)
 <br><br>
 <img src="images/lithophanes/DSC_4059_smaller.png" style="width:280px;height:216px;" href="https://thomasjbarlow.com/custom_lithophanes"/>
 
 ---
 
-[Skribb.io Automated Drawing Bog](/skribblio_bot)
+[Skribb.io Automated Drawing Bot(/skribblio_bot)
 <br><br>
 <img src="https://skribbl.io/res/logo.gif" style="width:534px;height:150px;" href="https://thomasjbarlow.com/skribblio_bot"/>
 
@@ -31,12 +37,6 @@ I know that success is never garunteed, but I'd love to be the person who tried.
 [YouTube Music Projects](/youtube_channel)
 <br><br>
 <img src="images/op1-simplified.jpg" style="width:150px;height:150px;" href="https://thomasjbarlow.com/youtube_channel"/>
-
----
-
-[Model Design and 3D Printing](/model_design)
-<br><br>
-<img src="https://cdn.thingiverse.com/renders/ea/1b/d0/88/82/e57b3c2c844194c33cb7e79efb715a03_preview_featured.jpg" style="width:215px;height:150px;" href="https://thomasjbarlow.com/model_design"/>
 
 ---
 

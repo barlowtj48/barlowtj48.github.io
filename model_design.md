@@ -5,11 +5,28 @@
 [Contact Me](mailto:contact@thomasjbarlow.com)
 
 **Exhaust Cutout Holder**
-This was one of the first things I designed to work with my car. It has a wireless remote that connects to the exhaust muffler and makes it quieter/louder depending on how I want it. There was no good position for it to sit without taking up a cupholder, so this was designed to match the contour of the cupholder and hold it securely on the outside. It holds strong, and now I have another cupholder to use. 
+This was one of the first things I designed to work with my car. It has a wireless remote that connects to the exhaust muffler and makes it quieter/louder depending on how I want it. This is the third revision of the design where it's located out of the way of the cupholders, and the door handles too. 
 
-<img src="https://cdn.thingiverse.com/renders/38/f5/d9/f7/61/6bc4774ad8fb9c30d8ba331cf7d3bc5e_preview_featured.jpg" href="https://www.thingiverse.com/thing:3060876"/>
+<img src="images/3dprints/JCW_V3_1.jpg?raw=true"/>
 
-[Exhaust Cutout Holder](https://www.thingiverse.com/thing:3060876)
+**Smart Flip Clock**
+So far, this has been my longest project to date. I set out to make a 'smart' flip clock, where the digits and other information are displayed using a 70's style flipping mechanism. I had a few constraints to limit the project: I would be using a raspberry pi to power it, and the whole project had to be made for under $20. This was made possible by sourcing 4 small stepper motors online, and wires that I already had. The majority of the project was the CAD design of the mechanism; however a small bit went to the python code that indexed each digit and displayed the information.
+
+After 3 months, the clock can now display the time and display the weather when the button on the side of it is pressed. There is also a pause function to pause the clock if I need it to be extra quiet. Here are a few pictures of the progress throughout working on it. 
+
+<img src="images/3dprints/flipclock_render.png?raw=true">
+
+This is a render of the clock nearing its final verion, only thing it doesn't have is a spot for the button to display the weather. 
+
+<img src="images/3dprints/flipclock_first.gif?raw=true">
+
+<img src="images/3dprints/flipclock_second.gif?raw=true">
+
+<img src="images/3dprints/flipclock_third.gif?raw=true">
+
+<img src="images/3dprints/flipclock_fourth.gif?raw=true">
+
+I'm happy to say this project has turned out so well. I previously relied on my phone as an alarm and used my computer as my main source of time, but now this is a good looking way to get the time at a glance.
 
 **Custom Shift Knob**
 Challenge round: design a comfortable shift knob that can sit in the sun all day, be comfortable, look good, and not take forever to design. I got around all of those except for the last... This was probably my most challenging project to date, with 3 separate parts that bolted together with a snug fit around the gear shift. It included slide-in nuts for effective machine screws, a cavity for a large ball bearing to give it some weight, a snug fit sleeve that wouldn't let the knob twist off, and leather stitching to show me how hard it is to work with leather. Here's a picture of it, exploded without the stitching.
@@ -21,12 +38,12 @@ And here it is after 10 months of being in my car.
 <img src="images/3dprints/shiftknob.jpg?raw=true"/>
 
 **Speaker Stands**
-This was my first 30+ hour print. I had recently gotten a new printer with larger print size, and needed some speaker stands that were strong enought to hold them. These were designed with the intent to print with no supports. They support a bookshelf speaker 180mm higher off of my desk, and look good too!
+This was my first 30+ hour print. I had recently gotten a new printer with larger print size, and needed some speaker stands that were strong enought to hold them. These were designed with the intent to print with no supports. They support a bookshelf speaker 180mm higher off of my desk and it looks good too!
 
 <img src="images/3dprints/speaker_stand.jpg?raw=true"/>
 
 **Wheel Caps**
-A great application for saving money, I needed some caps for my wheels and didn't want to wait for shipping. I designed these up to be snapped into place just like the originals, and come in a color that doesn't otherwise exist. It was painted black on the raised letters to match the style. 
+A great application for saving money, I needed some caps for my wheels and didn't want to wait for shipping. I designed these up to be snapped into place just like the originals and come in a color that doesn't otherwise exist. It was painted black on the raised letters to match the style. 
 
 <img src="images/3dprints/wheel_cap.png?raw=true"/>
 
