@@ -11,6 +11,7 @@ I know that success is never garunteed, but I'd love to be the person who tried.
 ## Projects and Experiences
 
 [My Work Experience](/work_experience)
+
 <br><br>
 <img src="images/work_ahead.jpg?raw=true" style="width:217px;height:150px;" href="https://thomasjbarlow.com/work_experience"/>
 
@@ -22,13 +23,7 @@ I know that success is never garunteed, but I'd love to be the person who tried.
 
 ---
 
-[Custom 3D Printed Lithophanes](/custom_lithophanes)
-<br><br>
-<img src="images/lithophanes/DSC_4059_smaller.png" style="width:280px;height:216px;" href="https://thomasjbarlow.com/custom_lithophanes"/>
-
----
-
-[Skribb.io Automated Drawing Bot(/skribblio_bot)
+[Skribb.io Automated Drawing Bot](/skribblio_bot)
 <br><br>
 <img src="https://skribbl.io/res/logo.gif" style="width:534px;height:150px;" href="https://thomasjbarlow.com/skribblio_bot"/>
 

@@ -4,55 +4,17 @@
 
 [Contact Me](mailto:contact@thomasjbarlow.com)
 
+**The Cool Projects**
+
+The best of the designs get some special attention. They are the [Flipclock](/flip_clock) and the [Custom Shift Knob](/shift_knob).
+
+
 **Exhaust Cutout Holder**
 
 This was one of the first things I designed to work with my car. It has a wireless remote that connects to the exhaust muffler and makes it quieter/louder depending on how I want it. This is the third revision of the design where it's located out of the way of the cupholders and the door handles for easy access. It's printed in ABS plastic so that it doesn't warp on a hot summer day.
 
 <img src="images/3dprints/JCW_V3_1.JPG?raw=true"/>
 
-**Smart Flip Clock**
-
-So far, this has been my longest project to date. I set out to make a 'smart' flip clock, where the digits and other information are displayed using a 70's style flipping mechanism. I had a few constraints to limit the project: I would be using a raspberry pi to power it, and the whole project had to be made for under $20. This was made possible by sourcing 4 small stepper motors online, and wires that I already had. The majority of the project was the CAD design of the mechanism; however a small bit went to the python code that indexed each digit and displayed the information.
-
-After 3 months, the clock can now display the time and display the weather when the button on the side of it is pressed. There is also a pause function to pause the clock if I need it to be extra quiet. Here are a few pictures of the progress throughout working on it. 
-
-This is a render of the clock nearing its final verion, only thing it doesn't have is a spot for the button to display the weather. 
-
-<img src="images/3dprints/flipclock_render.png?raw=true">
-
-This was my first time keeping track of rotation using stepper motors, and I now like them a lot.
-
-<img src="images/3dprints/flipclock_first.gif?raw=true">
-
-Pretty much the same thing as before, times four! I put sticky notes on to see if I'd be able to display some information this time.
-
-<img src="images/3dprints/flipclock_second.gif?raw=true">
-
-The black letters you see on this are all 3d printed as well. This part took me a while with all of the small pieces needing precise gluing. 
-
-<img src="images/3dprints/flipclock_third.gif?raw=true">
-
-Here it is as it sits on my desk! No more test jumpers hanging around. 
-
-<img src="images/3dprints/flipclock_fourth.gif?raw=true">
-
-I'm happy to say this project has turned out so well. I previously relied on my phone as an alarm and used my computer as my main source of time, but now this is a good looking way to get the time at a glance.
-
-**Custom Shift Knob**
-
-Challenge round: design a comfortable shift knob that can sit in the sun all day, be comfortable, look good, and not take forever to design. I got around all of those except for the last... This was probably my most challenging project to date, with 3 separate parts that bolted together with a snug fit around the gear shift. It included slide-in nuts for effective machine screws, a cavity for a large ball bearing to give it some weight, a snug fit sleeve that wouldn't let the knob twist off, and leather stitching to show me how hard it is to work with leather. Here's a picture of it, exploded without the stitching.
-
-<img src="images/3dprints/shiftknob_rendered.jpg?raw=true"/>
-
-And here it is after 10 months of being in my car.
-
-<img src="images/3dprints/shiftknob.jpg?raw=true"/>
-
-**Speaker Stands**
-
-This was my first 30+ hour print. I had recently gotten a new printer with larger print size, and needed some speaker stands that were strong enought to hold them. These were designed with the intent to print with no supports. They support a bookshelf speaker 180mm higher off of my desk and it looks good too!
-
-<img src="images/3dprints/speaker_stand.jpg?raw=true"/>
 
 **Wheel Caps**
 
