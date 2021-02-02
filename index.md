@@ -18,7 +18,7 @@ I know that success is never garunteed, but I'd love to be the person who tried.
 
 [Model Design and 3D Printing](/model_design)
 <br><br>
-<img src="images/3dprints/flipclock_render.png" style="width:215px;height:150px;" href="https://thomasjbarlow.com/model_design"/>
+<img src="images/3dprints/flipclock_render.png" style="width:280px;height:200px;" href="https://thomasjbarlow.com/model_design"/>
 
 ---
 
