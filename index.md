@@ -54,7 +54,7 @@ I know that success is never guaranteed, but I'd love to be the person who tried
 
 [Discord Reverse Image Search Bot](/discord_search_bot)
 <br><br>
-<img src="https://discordapp.com/assets/20d185289ca0178b8dd30d7605f6dc72.svg" style="width:190px;height:150px;" href="https://thomasjbarlow.com/discord_search_bot"/>
+<img src="images/discordBot.svg" style="width:190px;height:150px;" href="https://thomasjbarlow.com/discord_search_bot"/>
 
 ---
 
