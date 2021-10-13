@@ -3,7 +3,7 @@
 **Siemens Digital Industries Software** It has been a joy to be a software engineering co-op student here since the end of my Freshman year. I've met some great people, and learned a lot about the industry application of my studies. Here's a review of the variety of different project that I've worked on over the past 3 years, 3 development teams, and 6 semesters.
 
 
-### 2. Spring 2020 Semester (from home!)
+### 1. Spring 2020 Semester (from home!)
 
 During my last semester, I was transitioned to working fully remote. I spent much of my time researching application of more physics engines, something I was familiar with from previous semesters. This branched into researching more machine learning focused development, and as the first version of Unity ML Agents was released, I was tasked to put it to use. This took the form of developing and training an ML model that would use visual learning to create an offset color for high contrast objects to be more easily manipulated on augmented reality devices. 
 
