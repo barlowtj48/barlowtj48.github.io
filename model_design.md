@@ -6,7 +6,7 @@
 
 **The Cool Projects**
 
-The best of the designs get some special attention. They are the [Flipclock](/flip_clock) and the [Custom Shift Knob](/shift_knob).
+The best of the designs get some special attention. They are the [Flipclock](/flip_clock), the [Custom Shift Knob](/shift_knob), and [the fixed block for an electric recliner couch](/couch_recliner_fix).
 
 
 **Exhaust Cutout Holder**
