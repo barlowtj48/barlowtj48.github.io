@@ -12,7 +12,7 @@ I know that success is never guaranteed, but I'd love to be the person who tried
 
 [My Work Experience](/work_experience)
 <br><br>
-<img src="images/work_ahead.jpg?raw=true" style="width:217px;height:150px;" href="https://thomasjbarlow.com/work_experience"/>
+<img src="images/work_ahead.jpg?raw=true" style="width:280px;height:180px;" href="https://thomasjbarlow.com/work_experience"/>
 
 ---
 
@@ -24,13 +24,13 @@ I know that success is never guaranteed, but I'd love to be the person who tried
 
 [3D Printed Smart Flip Clock](/flip_clock)
 <br><br>
-<img src="images/3dprints/flipclock_render.png" style="width:280px;height:200px;" href="https://thomasjbarlow.com/model_design"/>
+<img src="images/3dprints/flipclock_render.png" style="width:280px;height:180px;" href="https://thomasjbarlow.com/model_design"/>
 
 ---
 
 [3D Printed Custom Weighted Shift Knob](/shift_knob)
 <br><br>
-<img src="images/3dprints/shiftknob.jpg" style="width:113px;height:150px;" href="https://thomasjbarlow.com/model_design"/>
+<img src="images/3dprints/shiftknob.jpg" style="width:280px;height:370px;" href="https://thomasjbarlow.com/model_design"/>
 
 ---
 
@@ -43,22 +43,4 @@ I know that success is never guaranteed, but I'd love to be the person who tried
 [Skribb.io Automated Drawing Bot](/skribblio_bot)
 <br><br>
 <img src="https://skribbl.io/res/logo.gif" style="width:534px;height:150px;" href="https://thomasjbarlow.com/skribblio_bot"/>
-
----
-
-[YouTube Music Projects](/youtube_channel)
-<br><br>
-<img src="images/op1-simplified.jpg" style="width:150px;height:150px;" href="https://thomasjbarlow.com/youtube_channel"/>
-
----
-
-[Discord Reverse Image Search Bot](/discord_search_bot)
-<br><br>
-<img src="images/discordBot.svg" style="width:190px;height:150px;" href="https://thomasjbarlow.com/discord_search_bot"/>
-
----
-
-
-
-
 

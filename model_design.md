@@ -1,4 +1,4 @@
-## 3D Printing and Model Designing
+# 3D Printing and Model Designing
 
 **What do I make?** I learned about 3D modeling from when I worked with Siemens NX, and had access to a 3D printer that I was allowed to experiment with. It was something I was very fascinated with from the start. The ability to have something be realized in physical form is as cool as it sounds. Here are a few things that I've made in the past, some which ended up being trashed, and some that I use every time I get in my car. _All of the following models were designed and printed by me. If you are interested in learning more about any of them, definitely reach out and I'll be happy to follow up._
 

@@ -1,4 +1,4 @@
-## Skribbl.io Automation Assisted Drawing Bot
+# Skribbl.io Automation Assisted Drawing Bot
 
 **The Game:** Skribbl.io is a on online drawing game where a player is given three words to pick one from, and do their best to draw it. Players get points proportional to how quickly they guess, and the artist also gets more points if more people are able to guess. 
 
