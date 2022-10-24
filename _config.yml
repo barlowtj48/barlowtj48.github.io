@@ -1,7 +1,9 @@
-title: Thomas Barlow # your name (or website title) here
-logo: "/images/headshot.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello, I'm a software engineer at Siemens Digital Industries Software. In my free time I like 3D printing, and working on software projects. Check out some of the projects I've worked on!
+title: Thomas Barlow
+logo: "/images/headshot.png?raw=true"
+description: > 
+  Hello, I'm currently a Full Stack Software Engineer at iTSpeeX LLC. In my free time I like 3D printing, and working on software projects. Check out some of the projects I've worked on!
+  <br>
+  Currently looking for new employment! Reach out to me below or on LinkedIn if you're interested in having me on your team.
   <br><br>
   <a href ="mailto: contact@thomasjbarlow.com">Contact Me</a>
   <br><br>

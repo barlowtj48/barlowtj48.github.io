@@ -72,8 +72,6 @@ Do all steps in reverse order. Make sure you have done all of the below:
 
 ## Step 7: Replace the assembly back into the couch
 
----
-
 Place the 2 pins in the holes on the motor housing, and then put on the cotter pins to keep them in place.
 Plug in power and control cords and zip-tie them back to the couch. 
 
@@ -82,3 +80,17 @@ Plug in power and control cords and zip-tie them back to the couch.
 ## Step 8: Sit back and put your feet up
 
 If you have any questions, reach out to my email: [Contact Me](mailto:contact@thomasjbarlow.com)
+
+---
+
+## The background: Many revisions must be made efficiently
+
+This project came to light after discovering there was no way to replace only the small plastic block on the threaded rod of the mechanism that moves the recliner on a couch. The only replacement was for the whole assembly! What a waste of a functioning motor. The hardest part of this project BY FAR was matching exactly the threads from the threaded rod. The threads needed to be tight tolerance, but not so tight that no grease can fit, allowing it quiet and smooth operation. 
+
+To reduce weight and save significant time, I first started with just the threaded rod sleeve so that I could get the dimensions correct before printing the entire block. This took about 20 revisions. 
+
+<img src="images/couch_recliner/thread_iterations.jpg?raw=true" width=500px/>
+
+After the fixed block was reinstalled, it worked as expected for about 8 months but then cracked again! The discovery I made was fortunate that the physical limit was met by the model, and not the sheer strength of the 3D printed plastic. The design was updated (not pictured) and has been in use for now a full year with no signs of cracking or wear. 
+
+<img src="images/couch_recliner/new_vs_old.jpg?raw=true" width=500px/>
