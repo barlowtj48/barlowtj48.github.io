@@ -12,7 +12,7 @@ To purchase the moving block, [I have it listed on Etsy](https://barlowfabricati
 
 # Installation Instructions
 
-<object width="500" height="700" type="application/pdf" data="https://thomasjbarlow.com/pdf/Mulin_Electric_ML8-145_Block_Replacement.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+<object width="500" height="700" type="application/pdf" data="https://thomasjbarlow.com/pdf/Mulin_Electric_ML8-145_Block_Replacement.pdf">
     <p>PDF cannot be displayed. Click the link below to download it instead.</p>
     <p><a href="https://thomasjbarlow.com/pdf/Mulin_Electric_ML8-145_Block_Replacement.pdf">Download PDF</a></p>
 </object>
