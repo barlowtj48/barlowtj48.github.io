@@ -6,7 +6,7 @@
 
 **The Cool Projects**
 
-The best of the designs get some special attention. They are the [Flipclock](/flip_clock), the [Custom Shift Knob](/shift_knob), [the fixed block for a mulin brand electric recliner assembly](/mulin_couch_recliner_fix) and [the fixed block for a sterling electric recliner assembly[/smt10_couch_recliner_fix]].
+The best of the designs get some special attention. They are the [Flipclock](/flip_clock), the [Custom Shift Knob](/shift_knob), [the fixed block for a mulin brand electric recliner assembly](/mulin_couch_recliner_fix) and [the fixed block for a sterling electric recliner assembly.](/smt10_couch_recliner_fix)
 
 
 **Exhaust Cutout Holder**
