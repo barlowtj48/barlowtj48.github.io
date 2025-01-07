@@ -6,7 +6,7 @@ This is a fix for the moving block on the electric recliner mechanism. This tuto
 2. Are unwilling to spend $120 on a fully assembled (motor included) replacement
 3. Are kind of handy
 
-To purchase the moving block, [I have it listed on Etsy](https://barlowfabrication.etsy.com/listing/1695830529).
+To purchase the moving block, [I have it listed on Etsy](https://barlowfabrication.etsy.com/listing/1781977270).
 
 ---
 
@@ -16,4 +16,3 @@ To purchase the moving block, [I have it listed on Etsy](https://barlowfabricati
     <p>PDF cannot be displayed. Click the link below to download it instead.</p>
     <p><a href="https://thomasjbarlow.com/pdf/SMT10-04-120-220_Block_Replacement.pdf">Download PDF</a></p>
 </object>
-
