@@ -1,29 +1,26 @@
-# 3D Printing and Model Designing
+# Electric Reclining Couch Fixes
 
-**What do I make?** I learned about 3D modeling from when I worked with Siemens NX, and had access to a 3D printer that I was allowed to experiment with. It was something I was very fascinated with from the start. The ability to have something be realized in physical form is as cool as it sounds. Here are a few things that I've made in the past, some which ended up being trashed, and some that I use every time I get in my car. _All of the following models were designed and printed by me. If you are interested in learning more about any of them, definitely reach out and I'll be happy to follow up._
+[Contact Me](mailto:contact@barlowfabrication.com)
 
-[Contact Me](mailto:contact@thomasjbarlow.com)
+**What is it?**
 
-**The Cool Projects**
+I have been designing and selling replacement blocks for broken electric recliners. It came up when I fixed one for my parents, and ever since then I have been working with folks with broken recliners to have them sent in and I design the fix, and send them back. After they confirm for me that everything is good to go, I list them on Etsy for others to purchase. This is a great way to save money and keep these assemblies out of the landfill. It is a relatively simple fix, just a bit of disassembly and reassembly.
 
-The best of the designs get some special attention. They are the [Flipclock](/flip_clock), the [Custom Shift Knob](/shift_knob), [the fixed block for a mulin brand electric recliner assembly](/mulin_couch_recliner_fix) and [the fixed block for a sterling electric recliner assembly.](/smt10_couch_recliner_fix)
+**Models**
 
+- [SMT10-04-120-220 (43) Linear Actuator BySterling Motion Block Replacement](/smt10_120_couch_recliner_fix)
+- [SMT10-04-133-226 (41) Linear Actuator BySterling Motion Block Replacement](/smt10_133_couch_recliner_fix)
+- [Mulin Electric ML8-145 Recliner Block Replacement](/mulin_couch_recliner_fix)
 
-**Exhaust Cutout Holder**
+**My Couch Has Issues and You Don't Have It Listed**
 
-This was one of the first things I designed to work with my car. It has a wireless remote that connects to the exhaust muffler and makes it quieter/louder depending on how I want it. This is the third revision of the design where it's located out of the way of the cupholders and the door handles for easy access. It's printed in ABS plastic so that it doesn't warp on a hot summer day.
+You're in the right place. I am always looking to expand the list of models I can fix. If you have a broken couch, please reach out to me and we can work together to get it fixed. If you are the first person to reach out to me about a specific model, I will cover the cost of shipping for you to send it to me, and I will design the fix for free and send it back to you. In my mind, this is a win-win. You get your couch fixed for free, and I get to add another model to my list of fixes.
 
-<img src="images/3dprints/JCW_V3_1.JPG?raw=true"/>
+**How Do I Purchase?**
+If you have a model that I have already designed a fix for, you can purchase it on [Etsy](https://www.etsy.com/shop/BarlowFabrication). If you have a model that is not listed, please reach out to me via email. My email is [contact@barlowfabrication.com](mailto:contact@barlowfabrication.com)
 
+**I am International, are these still for sale?**
+Through Etsy, I am able to ship anywhere. Due to the shipping configuration though, I may not have your country listed. Reach out to me via email or through Etsy and I will add your country to the list. International shipping is flat $10 extra.
 
-**Wheel Caps**
-
-A great application for saving money, I needed some caps for my wheels and didn't want to wait for shipping. I designed these up to be snapped into place just like the originals and come in a color that doesn't otherwise exist. It was painted black on the raised letters to match the style. 
-
-<img src="images/3dprints/wheel_cap.png?raw=true"/>
-
-**Snowboard Stomp Pad**
-
-This was 100% a design spawned from the want to not spend $20 on a chunk of plastic. A quick design that filled up the entire printer, and brown filament that looks like a chocolate bar, and it has kept me stable on this snowboard more than I ever intended.
-
-<img src="images/3dprints/stomp_pad.jpg?raw=true"/>
+<!-- **I have a 3D Printer, can I print this myself?** -->
+<!-- Food for though... -->

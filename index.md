@@ -16,9 +16,9 @@ I know that success is never guaranteed, but I'd love to be the person who tried
 
 ---
 
-[Model Design and 3D Printing](/model_design)
+[Electric Recliner Fixes](/model_design)
 <br><br>
-<img src="images/3dprints/JCW_V3_2.JPG" style="width:280px;height:186px;" href="https://thomasjbarlow.com/model_design"/>
+<img src="images/couch_fix_thumb.jpg" style="width:280px;height:280px;" href="https://thomasjbarlow.com/model_design"/>
 
 ---
 
