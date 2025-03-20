@@ -6,7 +6,7 @@ This is a fix for the moving block on the electric recliner mechanism. This tuto
 2. Are unwilling to spend $95 on a fully assembled (motor included) replacement
 3. Are kind of handy
 
-To purchase the moving block, it is listed [Here on Etsy](https://www.etsy.com/listing/1859407220/read-description-kdpt007-115-1-linear)
+To purchase the moving block, it is listed [Here on Etsy](https://barlowfabrication.etsy.com/listing/1888719839)
 
 ---
 
