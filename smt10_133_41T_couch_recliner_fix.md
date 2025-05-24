@@ -1,6 +1,6 @@
-# Broken Couch Recliner Assembly Moving Block Fix -- SMT10-04-133-226 (41) Linear Actuator BySterling Motion Block Replacement
+# Broken Couch Recliner Assembly Moving Block Fix -- SMT10-04-133-226 (41T) Linear Actuator BySterling Motion Block Replacement
 
-## THIS MODEL HAS 41 IN IT. NOT "41T". MAKE SURE TO CHECK YOURS.
+## THIS MODEL HAS 41T IN IT. NOT "41". MAKE SURE TO CHECK YOURS.
 
 This is a fix for the moving block on the electric recliner mechanism. This tutorial is only helpful for those who:
 
@@ -16,5 +16,5 @@ To purchase the moving block, [I have it listed on Etsy](https://www.etsy.com/li
 
 <object width="500" height="700" type="application/pdf" data="https://thomasjbarlow.com/pdf/SMT10-04-133-226_Block_Replacement.pdf">
     <p>PDF cannot be displayed. Click the link below to download it instead.</p>
-    <p><a href="https://thomasjbarlow.com/pdf/SMT10-04-133-226_Block_Replacement.pdf">Download PDF</a></p>
+    <p><a href="https://thomasjbarlow.com/pdf/SMT10-04-133-226(41T).pdf">Download PDF</a></p>
 </object>
