@@ -14,7 +14,7 @@ To purchase the moving block, [I have it listed on Etsy](https://www.etsy.com/li
 
 # Installation Instructions
 
-<object width="500" height="700" type="application/pdf" data="https://thomasjbarlow.com/pdf/SMT10-04-133-226_Block_Replacement.pdf">
+<object width="500" height="700" type="application/pdf" data="https://thomasjbarlow.com/pdf/SMT10-04-133-226(41T).pdf">
     <p>PDF cannot be displayed. Click the link below to download it instead.</p>
     <p><a href="https://thomasjbarlow.com/pdf/SMT10-04-133-226(41T).pdf">Download PDF</a></p>
 </object>

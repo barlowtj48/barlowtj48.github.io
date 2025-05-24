@@ -8,7 +8,7 @@ I have been designing and selling replacement blocks for broken electric recline
 
 **Models**
 
-- [SMT10-04-120-220 (43) Linear Actuator By Sterling Motion Block Replacement](/smt10_120_couch_recliner_fix)
+- [SMT10-04-120-220 (43T) Linear Actuator By Sterling Motion Block Replacement](/smt10_120_couch_recliner_fix)
 - [SMT10-04-133-226 (41) Linear Actuator By Sterling Motion Block Replacement](/smt10_133_couch_recliner_fix)
 - [SMT10-04-133-226 (41T) Linear Actuator By Sterling Motion Block Replacement](/smt10_133_41T_couch_recliner_fix)
 - [Mulin Electric ML8-145 Recliner Block Replacement](/mulin_couch_recliner_fix)
