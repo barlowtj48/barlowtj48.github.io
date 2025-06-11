@@ -16,6 +16,7 @@ I have been designing and selling replacement blocks for broken electric recline
 - [DP03-122-220-05 Linear Actuator Block Replacement](/dp03_122_220_couch_recliner_fix)
 - [Mulin Electric ML38-025 Linear Actuator Block Replacement](/ml38-025_couch_recliner_fix)
 - [Maruni XYA5-2 Linear Actuator Block Replacement](/maruni_xya5_2_couch_recliner_fix)
+- [Limoss 451615 Linear Actuator Block Replacement](/limoss-451615)
 
 **My Couch Has Issues and You Don't Have It Listed**
 
