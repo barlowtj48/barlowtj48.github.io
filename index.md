@@ -16,7 +16,7 @@ I know that success is never guaranteed, but I'd love to be the person who tried
 
 ---
 
-[Electric Recliner Fixes](/model_design)
+[Electric Recliner Repair — Barlow Fabrication](/model_design)
 <br><br>
 <img src="images/couch_fix_thumb.jpg" style="width:280px;height:280px;" href="https://thomasjbarlow.com/model_design"/>
 
@@ -24,22 +24,18 @@ I know that success is never guaranteed, but I'd love to be the person who tried
 
 [3D Printed Smart Flip Clock](/flip_clock)
 <br><br>
-<img src="images/3dprints/flipclock_render.png" style="width:280px;height:180px;" href="https://thomasjbarlow.com/model_design"/>
+<img src="images/3dprints/flipclock_fourth.gif?raw=true" style="width:280px;height:280px;" href="https://thomasjbarlow.com/model_design"/>
 
 ---
 
-[3D Printed Custom Weighted Shift Knob](/shift_knob)
+[MIDI Stepper Motor Music](/midi_motor_music)
 <br><br>
-<img src="images/3dprints/shiftknob.jpg" style="width:280px;height:370px;" href="https://thomasjbarlow.com/model_design"/>
+An open-source Arduino project that turns stepper motors into musical instruments using MIDI files.
 
 ---
 
-[Discord Wordkeeper Bot](/wordkeeper)
+[RapidFTA](/rapidfta)
 <br><br>
-<img src="images/wordkeeper2.png?raw=true" style="width:550px;height:80px;" href="https://thomasjbarlow.com/wordkeeper"/>
-
----
-
-[Skribb.io Automated Drawing Bot](/skribblio_bot)
-<br><br>
-<img src="https://skribbl.io/img/logo.gif" style="width:534px;height:150px;" href="https://thomasjbarlow.com/skribblio_bot"/>
+<img src="images/rapidfta_logo.svg" alt="RapidFTA Logo" style="width:300px;"/>
+<br>
+A web application for quickly searching and exploring Free Trade Agreement data.
