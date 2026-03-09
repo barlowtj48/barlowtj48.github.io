@@ -1,55 +1,75 @@
 # My Work Experience
 
-## 1. iTSpeeX LLC
+## 1. ODW Logistics
 
-My first introduction into startups! What a fun experience. I have worked the greater part of 2022 here and it looks like it will be coming to an end before the year is over. I'm only hoping that I can find a team again that I enjoy working with as much as this one, and it is really a shame that iTSpeeX is ceasing further development. As one of three software engineers, the variety of work I was exposed to was more than I had previously experienced (this is a super good thing). I never would have expected to be utilizing my skills of 3D modeling and 3D printing to bring some parts to life that would be needed for a demonstration booth at IMTS 2022. I've gotten good at developing (and converting older native JS to) Vue.js, and also had a decent time as a backend developer working with the hub messaging design that our product was centered around. 
+Since joining ODW Logistics, I've been a part of the team that has designed, developed, and maintained the company’s Transportation Management System (TMS). The platform supports accounting workflows, and customer operations, high volume live tracking, and has rapidly scaled as new clients have been onboarded.
 
-**Technical skills used**: C# (.NET Framework), Vue.js, CAD + printing
+Much of my work focuses on backend services and database-driven workflows that power accounting and invoicing processes. I've spent significant time optimizing legacy SQL procedures, improving system reliability, and reducing operational overhead through automation.
+
+A major milestone during my time here was helping scale the TMS from zero onboarded clients to supporting **85% of all company clients since January 2025**. Along the way I’ve taken ownership of accounting and financial workflows, working closely with the accounting department to ensure they remain reliable as the platform continues to grow.
+
+**Technical skills used**: C#, Go, SQL Server, Docker, CI/CD, distributed systems
 
 ---
 
-## 2. Siemens Digital Industries Software
+## 2. iTSpeeX LLC
 
-It was a pleasure working here from just after my freshman year to early 2022. I've met some great people, and learned a lot about the industry application of my studies. Here's a review of the variety of different project that I've worked on over the past 5 years, 4 development teams, and 6 semesters.
+iTSpeeX was my first exposure to the startup world, and it was a fantastic learning experience. As one of only three engineers, I was exposed to a wide range of work that extended far beyond traditional backend development.
 
-### Full time post graduate 
+I worked across both frontend and backend systems, helping modernize parts of the codebase and contributing to the hub-based messaging architecture that powered the platform. The small team meant everyone wore multiple hats, and I also ended up putting my 3D modeling and printing experience to use by creating physical components used in the company’s demonstration booth at **IMTS 2022**.
 
-Just after finishing my computer engineering degree I took a full time position here on the Classification team of Siemens Teamcenter. I met some of the smartest people I've worked with that helped me understand not only the ins and outs of full stack software engineering. Teams like this really give me an appreciation for individuals who are truly dedicated to a field. The amount of knowledge about Teamcenter that many on this team held was honestly overwhelming to me and my inexperience with the product. I was introduced to development with React, and achieved a deeper understanding of ways that business data is shared, stored, and utilized in ways that should be practiced everywhere.
+This role gave me my first real taste of building software in a fast-moving environment where adaptability and curiosity were just as important as technical skill.
 
-**Technical skills used**: C++, JSON(schema notation), Javascript(React, Angular) 
+**Technical skills used**: C# (.NET Framework), Vue.js, Javascript, CAD, 3D Printing
 
-### Spring 2020 Semester (from home!)
+---
 
-During my last semester, I was transitioned to working fully remote. I spent much of my time researching application of more physics engines, something I was familiar with from previous semesters. This branched into researching more machine learning focused development, and as the first version of Unity ML Agents was released, I was tasked to put it to use. This took the form of developing and training an ML model that would use visual learning to create an offset color for high contrast objects to be more easily manipulated on augmented reality devices. 
+## 3. Siemens Digital Industries Software
 
-**Technical skills used**: C#, Python, Unity (ML Agents)
+I worked at Siemens for five years across several teams as part of the University of Cincinnati co-op program. This experience exposed me to a wide range of development environments, from large-scale enterprise software to experimental R&D projects involving VR, simulation, and machine learning.
 
-### Fall 2019 Semester
+### Full-Time Role (Post-Graduation)
 
-This past semester was a continuation of my work on the Advanced Solutions team. Jumping right back in, I was able to complete a functional prototype of NVIDIA FleX particle-based fluid simulation in VR. Realtime loaded physics models would interact with fluid in a way that was very visually appealing, as well as seemingly accurate. More time was put into using game engines as a source of realtime VFX, and I started working with Unreal Engine 4 with NVIDIA GameWorks. It has a library called NVIDIA Turbulence, which I enabled functionality to create a VR wind tunnel with a few hundred thousand air particles. Around the midpoint of the semester, I began learning about and working to implement Snorkel Weak Supervision Machine Learning. The aim was to use Snorkel's ability to create labeling functions to intelligently label data without a very large amount of user marked data. 
+After graduating, I joined the **Teamcenter Classification team** as a full-time engineer. Working alongside some incredibly knowledgeable engineers gave me a deeper appreciation for the complexity of large enterprise systems and the importance of strong architecture and data modeling.
 
-**Technical skills used**: C#, Unity, Python, UE4, Snorkel Weak Supervision Machine Learning
+During this time I worked on full-stack development within the Teamcenter ecosystem and gained experience with modern frontend frameworks and enterprise data management practices.
 
-### Spring 2019 Semester
+**Technical skills used**: C++, JSON Schema, React, Angular
 
-I transferred into the Advanced Solutions team at Siemens Software. I got the chance to pick what I was working on within the team, and I chose to work on the virtual and augmented reality development position. The main project that I took on during the semester was to implement physics engines into the existing project that had none before. This was done in the Unity Game Engine. It was very cool to have such a big impact on this project, because of the small size of the project and team that was working on it. 
+### Advanced Solutions & R&D Work
 
-**Technical skills used**: C#, Unity, BulletPhysics Engine, Python, SteamVR
+During my co-op rotations I worked on a variety of experimental projects exploring simulation, VR/AR development, and machine learning techniques. These projects included:
 
-### Summer 2018 Semester
+- Developing a **VR fluid simulation prototype** using NVIDIA FleX
+- Implementing real-time particle simulations and wind tunnel visualizations using Unreal Engine
+- Experimenting with **weak supervision machine learning** using Snorkel
+- Researching and training an ML model using **Unity ML Agents** for visual contrast recognition in AR environments
+- Implementing physics engines within Unity-based VR/AR applications
 
-Working into my first complete year of coop, I continued working on the Lattice feature, however with a different goal in mind. Much of the early stage development had already been done, but there were still some improvements to be made. Much of the semester was spent testing and implementing an adaptive algorithm that saved a lot of time during the generation of the structure. The lattice structures were very high resolution; however, the scale of the model made the accuracy irrelevant. The scaling down changed render time from many minutes down to a few seconds. Finding the optimal balance between time and quality between many controlling variables was an important stage within the final product. 
+These projects gave me the opportunity to explore emerging technologies and experiment with new tools while working alongside a small R&D team.
+
+**Technical skills used**: C#, Unity, Unreal Engine 4, Python, Snorkel, NVIDIA GameWorks
+
+### Early Co-op Work
+
+Earlier rotations focused on development within Siemens NX and related tooling. I worked on features related to lattice structure generation, which allows parts to maintain structural integrity while significantly reducing material usage.
+
+Part of this work involved developing adaptive algorithms to optimize lattice generation performance, reducing generation time from minutes to seconds for large models.
+
+This is where I was first introduced to 3D printing and additive manufacturing, and I had the opportunity to see how software development can directly impact physical manufacturing processes.
 
 **Technical skills used**: C++, Python, VBA, 3D Printing
 
-### Fall 2017 Semester
+---
 
-My second semester I transferred into the Siemens NX Modeling Team. I began work getting used to the pre-existing code, as well as the much larger framework that had been in existence for most of my lifetime. I was tasked with development on the Lattice feature, where modeled parts could be filled in with lattice of that would maintain structural rigidity while saving a significant amount of material. As the saying goes *"Anyone can build a bridge. But only an engineer can build a bridge that barely stands."* It is very cool to work on a product that will be used by many thousands of people, and potentially make a pretty large difference. 
+## 4. Barlow Fabrication
 
-**Technical skills used**: C++, Python, 3D Printing
+Barlow Fabrication started as an experiment in solving a very specific problem: broken electric recliners. Many models fail because of a single plastic component that isn’t sold separately, forcing owners to replace the entire actuator assembly.
 
-### Summer 2017 Semester
+To address this, I design and manufacture 3D printed replacement parts that allow these systems to be repaired rather than replaced.
 
-During my first semester working on co-op, I started out working on a team with 6 other co-op students on a web automation testing suite. This included recording tests, playing back and recording any changes that occurred that were unexpected relative to when the test was recorded. Analytics for regressions could be analyzed to determine problems and reduce man hours spent testing and verifying functionality.
+Alongside the hardware work, I built the full software stack that powers the storefront and internal tooling. The platform includes authentication, a customer portal, internal development tracking tools, as well as order and inventory management. It runs on a containerized infrastructure similar to my other personal projects.
 
-**Technical skills used**: Java, Regular Expressions, VBA, Javascript
+So far, the project has helped save **1,000+ recliner actuators from landfills** by enabling part-level repair rather than full replacement.
+
+**Technical skills used**: Go, Angular, PostgreSQL, Docker, RustFS (S3-compatible storage), Cloudflare, 3D modeling, additive manufacturing
